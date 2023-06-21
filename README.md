@@ -1,6 +1,5 @@
 # Capstone-Proposal
 
-<img width="7000" height="700" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
 
 
 ## Please edit this README.md file based on your Capstone project idea.
